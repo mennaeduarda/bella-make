@@ -24,7 +24,7 @@ O projeto foi criado para demonstrar habilidades em desenvolvimento front-end, u
 3. Acesse o arquivo `index.html` ou rode o projeto com o ambiente configurado
 
 ## 📷 Preview
-Adicione aqui uma imagem do projeto para deixar o README ainda mais bonito.
+<img src="bellamake.png" alt="Tela de Admin" width="300">
 
 ## 📄 Licença
 Este projeto está sob a licença MIT.
